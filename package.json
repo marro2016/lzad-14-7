@@ -1,0 +1,24 @@
+{
+  "name": "lzad-14-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.23.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marro2016/lzad-14-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marro2016/lzad-14-7/issues"
+  },
+  "homepage": "https://github.com/marro2016/lzad-14-7#readme"
+}

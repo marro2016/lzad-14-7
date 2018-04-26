@@ -1,0 +1,61 @@
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+.contactForm {
+    max-width: 500px;
+    margin: 0 auto;	
+    padding-left: 40px;
+	padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+.contactForm input {
+   height: 35px;
+	margin: 0px 5px;
+	padding: 0px 3px;
+	border:3px solid green;
+	
+}
+.contactForm button {
+    width: 100px;
+    padding: 10px;
+    margin: 0 auto;
+    border: 0;
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+.contactForm button:hover {
+    background-color: orange;
+}
+.contactItem {
+    display: flex;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: gray;
+}
+
+.contactItem p {
+    margin: 5px;
+    
+}
+
+.contactItem a {
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+}
+.contactImage {
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+.contactBox {
+    color: white;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
